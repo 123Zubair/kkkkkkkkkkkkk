@@ -1,7 +1,7 @@
 /*Please enter the all input case as i have mention it in the comment
 First enetr the test case as test
 Second enter the Day's and Beginning amt 
-Third enter the ith input that you want to perform
+Third enter the input that you want
 */
 
 

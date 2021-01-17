@@ -5,7 +5,7 @@ int main() {
 	// your code goes here
 	
 	
-	int n;
+	int n,m,k,l,j;
 	
 	cin>>n;
 	
